@@ -36,4 +36,4 @@ Zeus is a fast, modern SDR client for **original-protocol (Protocol 1)** and **P
 
 ## Credits
 
-Built by **Brian Keating (EI6LF)**, **Douglas J. Cerrato (KB2UKA)**, **Christian Suarez (N9WAR)**, and **Ramón Martínez (EA5IUE)** — standing on the shoulders of the OpenHPSDR ecosystem: **WDSP** (Warren Pratt, NR0V) and the **Thetis** project. Licensed **GPL-2.0-or-later**.
+Built by **Douglas J. Cerrato (KB2UKA)**, **Christian Suarez (N9WAR)**, and **Ramón Martínez (EA5IUE)** — standing on the shoulders of the OpenHPSDR ecosystem: **WDSP** (Warren Pratt, NR0V) and the **Thetis** project. Licensed **GPL-2.0-or-later**.
